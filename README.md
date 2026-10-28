@@ -151,6 +151,17 @@ A simple Python tool that automatically organizes files into folders based on th
 🔗 **[View Project](https://github.com/harshithkrishnanandigam/Python-Projects./blob/6f2ad1af1e804586330785ab3bd75b43663d3f07/%23File%20Organizer.py)
 
 ---
+### 📝 Text Analyzer
+
+A Python program that analyzes text by counting word frequencies and finding the most repeated word or words. It ignores capitalization and punctuation when counting.
+
+**Built with:** `Python` `collections.Counter` `Loops` `String Methods`
+
+🔗 **[View Project](./text_analyzer.py)**
+
+---
+
+---
 # 🛠️ Tech Stack
 
 **Languages & Tools**

@@ -157,7 +157,7 @@ A Python program that analyzes text by counting word frequencies and finding the
 
 **Built with:** `Python` `collections.Counter` `Loops` `String Methods`
 
-🔗 **[View Project](./text_analyzer.py)**
+🔗 **[View Project](https://github.com/harshithkrishnanandigam/Python-Projects./blob/2b55d35ef6a0c5f12da530f2d806290b20289f6f/Text%20Analyser.py)**
 
 ---
 
